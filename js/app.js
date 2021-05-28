@@ -89,11 +89,11 @@
   "0cae": function (t, e, a) {},
   "12e3": function (t, e, a) {},
   1831: function (t, e, a) {
-    t.exports = a.p + "media/switch.mp3";
+    t.exports = a.p + "tv/media/switch.mp3";
   },
   2395: function (t, e, a) {},
   "26fb": function (t, e, a) {
-    t.exports = a.p + "images/ttt.jpg";
+    t.exports = a.p + "tv/images/ttt.jpg";
   },
   "289b": function (t, e) {
     window.storage = function (t, e) {
@@ -150,7 +150,7 @@
               },
               [
                 n("p", [e._v("哇哦٩(๑ᵒ̴̶͈᷄ᗨᵒ̴̶͈᷅)و ！你要请我喝奶茶吗?")]),
-                n("img", { attrs: { src: "images/ttt.jpg" } }),
+                n("img", { attrs: { src: "tv/images/ttt.jpg" } }),
                 n(
                   "div",
                   {
@@ -919,11 +919,11 @@
   "0cae": function (t, e, a) {},
   "12e3": function (t, e, a) {},
   1831: function (t, e, a) {
-    t.exports = a.p + "media/switch.mp3";
+    t.exports = a.p + "tv/media/switch.mp3";
   },
   2395: function (t, e, a) {},
   "26fb": function (t, e, a) {
-    t.exports = a.p + "images/ttt.jpg";
+    t.exports = a.p + "tv/images/ttt.jpg";
   },
   "289b": function (t, e) {
     window.storage = function (t, e) {
