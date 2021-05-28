@@ -812,7 +812,7 @@
     a("e6e3");
   },
   "64bb": function (t, e, a) {
-    t.exports = a.p + "images/milktea.png";
+    t.exports = a.p + "tv/images/milktea.png";
   },
   "7c55": function (t, e, a) {
     "use strict";
@@ -825,7 +825,7 @@
   cd22: function (t, e, a) {},
   e6e3: function (t, e, a) {},
   f5c5: function (t, e, a) {
-    t.exports = a.p + "media/noise.mp3";
+    t.exports = a.p + "tv/media/noise.mp3";
   },
 });
 (function (t) {
@@ -1646,7 +1646,7 @@
     a("e6e3");
   },
   "64bb": function (t, e, a) {
-    t.exports = a.p + "images/milktea.png";
+    t.exports = a.p + "tv/images/milktea.png";
   },
   "7c55": function (t, e, a) {
     "use strict";
@@ -1659,6 +1659,6 @@
   cd22: function (t, e, a) {},
   e6e3: function (t, e, a) {},
   f5c5: function (t, e, a) {
-    t.exports = a.p + "media/noise.mp3";
+    t.exports = a.p + "tv/media/noise.mp3";
   },
 });
