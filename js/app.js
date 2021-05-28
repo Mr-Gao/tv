@@ -150,7 +150,7 @@
               },
               [
                 n("p", [e._v("哇哦٩(๑ᵒ̴̶͈᷄ᗨᵒ̴̶͈᷅)و ！你要请我喝奶茶吗?")]),
-                n("img", { attrs: { src: "tv/images/ttt.jpg" } }),
+                n("img", { attrs: { src: "images/ttt.jpg" } }),
                 n(
                   "div",
                   {
