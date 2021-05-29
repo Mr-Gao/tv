@@ -722,7 +722,7 @@
               "a",
               {
                 attrs: {
-                  href: "https://www.baidu.com",
+                  href: "https://mp.weixin.qq.com/s?__biz=MzkzNjI0MTcwMQ==&mid=2247483810&idx=1&sn=711f9f1715da18edd0edf79d7ce994c6&chksm=c2a0fee8f5d777fe8991b99e7e1c818cfbd1acfed8ddb8863f2119f7496f755dddf98d276d0b&token=1578748082&lang=zh_CN#rd",
                 },
               },
               [t._v("更多好玩")]
@@ -1556,7 +1556,7 @@
               "a",
               {
                 attrs: {
-                  href: "https://www.baidu.com",
+                  href: "https://mp.weixin.qq.com/s?__biz=MzkzNjI0MTcwMQ==&mid=2247483810&idx=1&sn=711f9f1715da18edd0edf79d7ce994c6&chksm=c2a0fee8f5d777fe8991b99e7e1c818cfbd1acfed8ddb8863f2119f7496f755dddf98d276d0b&token=1578748082&lang=zh_CN#rd",
                 },
               },
               [t._v("更多好玩")]
